@@ -1,4 +1,4 @@
-Hello Git
+Hello from feature
 learning git is fun
 third line
 feature branch
