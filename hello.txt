@@ -1,4 +1,4 @@
-Hello from main
+Hello from merged branches
 learning git is fun
 third line
 feature branch
