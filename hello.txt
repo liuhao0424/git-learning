@@ -2,3 +2,4 @@ Hello from merged branches
 learning git is fun
 third line
 feature branch
+colleague change
